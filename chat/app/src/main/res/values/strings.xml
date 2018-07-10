@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">d00dle</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="send_button_label">Send</string>
+    <string name="surrender_button_label">Surrender</string>
+    <string name="start_game">Start Game</string>
+    <string name = "next_turn">Next Turn</string>
+</resources>
